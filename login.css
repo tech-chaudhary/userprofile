@@ -1,0 +1,23 @@
+.login{
+    width: 350px;
+    height: 200px;
+    background-color: aqua;
+    margin: 20vh auto;
+}
+.login input{
+    display: block;
+    padding: 2%;
+    width: 96%;
+   margin: auto;
+   margin-bottom: 1vh;
+    
+    box-sizing: border-box;
+}
+button{
+    padding: 2%;
+    width: 96%;
+    display: block;
+    background-color: royalblue;
+    color: white;
+    margin: 2vh auto;
+}
